@@ -30,7 +30,7 @@ twitter_username: KillSwitchX7
 github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-hacker
+remote_theme: pages-themes.github.io/hacker/
 plugins:
   - jekyll-feed
 
